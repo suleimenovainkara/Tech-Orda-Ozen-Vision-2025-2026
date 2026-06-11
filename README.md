@@ -52,7 +52,7 @@ Models were evaluated using:
 | Model | Accuracy | Macro F1 | Notes |
 |---|---|---|---|
 | Logistic Regression | 0.7723 | 0.77 | Baseline model, average performance |
-| GradientBoostingClassifier | 1.0000 | 1.00 | Perfect score — requires data leakage check |
+| GradientBoostingClassifier | 1.0000 | 1.00 | Perfect score - requires data leakage check |
 | Neural Network | 0.9187 | — | Strong result after 100 training epochs |
 
 ## Key Findings
@@ -69,7 +69,7 @@ Models were evaluated using:
 - Seaborn
 
 ## Repository Structure
-- code/ – trained models
+- codes/ – trained models
 - presentation/ – project presentation and visualizations and results
 
 ## Future Improvements
